@@ -82,4 +82,4 @@ that are either consumer-focused or support others in being more productive.
     A simple language implemented in Python to quickly generate truth tables of
     propositional logic formulae from the command line.
 
-More projects can be found at https://github.com/jonhue. A non-exhaustive, more complete and in-depth timeline of my work can be found [here](projects.md).
+A more complete and in-depth timeline of my work can be found [here](projects.md).
