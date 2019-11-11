@@ -1,6 +1,6 @@
-# Projects
+# Work
 
-This document gives an overview of the projects I worked on organized with a timeline. It should be more in-depth than the [CV](README.md) and more organized (and complete) than my [GitHub profile](https://github.com/jonhue).
+This document gives an organized overview of my work. It should be more in-depth than the [CV](README.md) and more organized (and complete) than my [GitHub profile](https://github.com/jonhue).
 
 *
     `2019`  
