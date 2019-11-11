@@ -4,13 +4,13 @@ This document gives a non-exhaustive organized overview of my work. It should be
 
 *
     `since 2019`  
-    [**Quik**](https://github.com/quik-lang/quik) - TypeScript
+    [**Quik**](https://github.com/quik-lang/quik) - TypeScript  
     A strongly typed, high-level, general purpose programming language with a
     focus on concurrency.
 
 *
     `03/2019 - 10/2019`  
-    [**Plaain**](https://jonhue.github.io/plaain) - JavaScript
+    [**Plaain**](https://jonhue.github.io/plaain) - JavaScript  
     A serverless React-Redux progressive web app to organize your library of
     movies & tv shows.
 
