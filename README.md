@@ -24,7 +24,7 @@ that are either consumer-focused or support others in being more productive.
 ### Honors
 
 *
-    `since 2018`  
+    `since 2019`  
     Scholar of the **Studienstiftung des deutschen Volkes**  
     Received for excellent academic achievements as well as engagement in the
     open-source community.
