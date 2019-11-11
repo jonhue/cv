@@ -52,7 +52,7 @@ that are either consumer-focused or support others in being more productive.
     Implementing a bot to support internal workflows. Building a CSV converter
     for a SaaS customer as a standalone project.
 
-### Extracurricular work
+### Recent work
 
 *
     `since 2016`  
