@@ -66,8 +66,9 @@ that are either consumer-focused or support others in being more productive.
 *
     `2019`  
     [**Quik**](https://github.com/quik-lang/quik)  
-    A general purpose programming language with a focus on concurrency.
-    Implementing Refinement Types and Software Transactional Memory.
+    A strongly typed, high-level, general purpose programming language with a
+    focus on concurrency. Implementing Refinement Types and Software
+    Transactional Memory.
 
 *
     `2019`  
