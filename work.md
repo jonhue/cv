@@ -3,10 +3,10 @@
 This document gives a non-exhaustive organized overview of my work. It should be more in-depth than the [CV](README.md) and more organized (and complete) than my [GitHub profile](https://github.com/jonhue).
 
 *
-    `03/2019 - 10/2019`  
-    [**Plaain**](https://jonhue.github.io/plaain) - JavaScript  
-    A serverless React-Redux progressive web app to organize your library of
-    movies & tv shows.
+    `since 09/2019`  
+    **Deployer** at Liefery - Ruby  
+    Implementing an infrastructure- and workflow-specific solution for
+    continuous delivery at Liefery.
 
 *
     `06/2019 - 08/2019`  
@@ -14,6 +14,12 @@ This document gives a non-exhaustive organized overview of my work. It should be
     An Assembly implementation of the RC5 block cipher for the x86 instruction
     set. Implementation of three different modes of operation and using Intel's
     SSE extensions to the x86 ISA for a SIMD implementation.
+
+*
+    `03/2019 - 10/2019`  
+    [**Plaain**](https://jonhue.github.io/plaain) - JavaScript  
+    A serverless React-Redux progressive web app to organize your library of
+    movies & tv shows.
 
 *
     `03/2019`  
@@ -41,10 +47,29 @@ This document gives a non-exhaustive organized overview of my work. It should be
     completed.
 
 *
+    `07/2018`  
+    [**GitHub-Jira-Bot**](https://github.com/liefery/github-jira-bot) at Liefery - Ruby  
+    A bot that connects Jira tickets and pull requests on GitHub by (1) posting
+    ticket descriptions to pull requests and (2) posting QA comments from GitHub
+    to Jira. In an effort to improve the developer workflow (on GitHub) and the
+    QA workflow (on Jira) respectively.
+
+*
+    `07/2018`  
+    [**Engineering Blog**](https://engineering.liefery.com) at Liefery - CSS  
+    Redesigning our engineering blog at Liefery from scratch using Jekyll.
+
+*
     `05/2018 - 06/2018`  
     [**Tip the World Cup**](https://github.com/jonhue/tip-the-world-cup) - Ruby  
     Inspired by my little brother, I developed this Ruby on Rails web app the
     weekend before the start of the 2018 FIFA World Cup.
+
+*
+    `05/2018`  
+    **CSV Converter** at Liefery - Ruby  
+    A tool to convert CSVs from the format of a SaaS client to a format that
+    could be imported to our backend system at Liefery.
 
 *
     `04/2017 - 04/2018`  
