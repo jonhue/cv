@@ -17,7 +17,9 @@ This document gives a non-exhaustive organized overview of my work. It should be
 *
     `06/2019 - 08/2019`  
     **RC5** - x86-Assembly/C  
-    An Assembly implementation of the RC5 block cipher for the x86 instruction set. Implementation of three different modes of operations, using the SSE extensions for a SIMD implementation.
+    An Assembly implementation of the RC5 block cipher for the x86 instruction
+    set. Implementation of three different modes of operations, using the SSE
+    extensions to the x86 ISA for a SIMD implementation.
 
 *
     `03/2019`  
@@ -63,6 +65,40 @@ This document gives a non-exhaustive organized overview of my work. It should be
     class in high school.
 
 *
-    `01/2018`  
+    `since 01/2018`  
+    [**Turbolinks Animate**](https://github.com/jonhue/turbolinks-animate) - JavaScript  
+    A framework to add rich and adaptive animations to apps using Turbolinks.
+
+*
+    `since 01/2018`  
+    [**Notifications Rails**](https://github.com/jonhue/notifications-rails) - Ruby  
+    A modular end-to-end solution for handling notifications in Ruby on Rails
+    applications.
+
+*
+    `since 01/2018`  
+    [**Modalist**](https://jonhue.github.io/modalist/) - JavaScript  
+    A powerful modal plugin that supports asynchronous modals that is actually
+    lightweight.
+
+*
+    `since 01/2018`  
     [**Imoji**](https://jonhue.github.io/imoji.js/) - JavaScript  
     A sleek and responsive emoji input published to NPM.
+
+*
+    `since 08/2017`  
+    [**acts_as_favoritor**](https://github.com/jonhue/acts_as_favoritor) - Ruby  
+    A Rubygem that adds a scoped favorite functionality to ActiveRecord models.
+
+*
+    `since 08/2017`  
+    [**Sandboxy**](https://github.com/jonhue/sandboxy) - Ruby  
+    A Rubygem that implements virtual data-oriented environments with Rails
+    using a single datastore. This allows for the separation of sandbox and
+    production data that is handled on a single production instance.
+
+*
+    `since 01/2017`  
+    [**OmniAuth Paypal OAuth2**](https://github.com/jonhue/omniauth-paypal-oauth2) - Ruby  
+    Ruby OAuth2 strategy to authenticate with PayPal.
