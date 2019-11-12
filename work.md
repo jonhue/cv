@@ -3,12 +3,6 @@
 This document gives a non-exhaustive organized overview of my work. It should be more in-depth than the [CV](README.md) and more organized (and complete) than my [GitHub profile](https://github.com/jonhue).
 
 *
-    `since 2019`  
-    [**Quik**](https://github.com/quik-lang/quik) - TypeScript  
-    A strongly typed, high-level, general purpose programming language with a
-    focus on concurrency.
-
-*
     `03/2019 - 10/2019`  
     [**Plaain**](https://jonhue.github.io/plaain) - JavaScript  
     A serverless React-Redux progressive web app to organize your library of
@@ -18,8 +12,8 @@ This document gives a non-exhaustive organized overview of my work. It should be
     `06/2019 - 08/2019`  
     **RC5** - x86-Assembly/C  
     An Assembly implementation of the RC5 block cipher for the x86 instruction
-    set. Implementation of three different modes of operations, using the SSE
-    extensions to the x86 ISA for a SIMD implementation.
+    set. Implementation of three different modes of operation and using Intel's
+    SSE extensions to the x86 ISA for a SIMD implementation.
 
 *
     `03/2019`  
@@ -32,6 +26,12 @@ This document gives a non-exhaustive organized overview of my work. It should be
     [**Google Hash Code 2019**](https://github.com/hashcode-hashcookies/hashcode) - Java  
     Solving the optimization problem of building a coherent slide of tagged
     photos.
+
+*
+    `since 01/2019`  
+    [**Quik**](https://github.com/quik-lang/quik) - TypeScript  
+    A strongly typed, high-level, general purpose programming language with a
+    focus on concurrency.
 
 *
     `01/2019`  
@@ -85,6 +85,18 @@ This document gives a non-exhaustive organized overview of my work. It should be
     `since 01/2018`  
     [**Imoji**](https://jonhue.github.io/imoji.js/) - JavaScript  
     A sleek and responsive emoji input published to NPM.
+
+*
+    `09/2017 - 08/2018`  
+    [**NativeGap**](https://github.com/NativeGap/nativegap) - Ruby  
+    A Ruby on Rails web app to transform other web apps to native apps on iOS,
+    Android, and Windows.
+
+*
+    `09/2017 - 01/2018`  
+    [**Phylator**](https://github.com/Phylator/phylator) - Ruby  
+    A Ruby on Rails web app to solve high-school physics problems with outlined
+    solutions.
 
 *
     `since 08/2017`  
