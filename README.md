@@ -11,14 +11,13 @@ that are either consumer-focused or support others in being more productive.
 *
     `est. 2021`  
     **Technical University Munich**  
-    B.S. Computer Science and Mathematics  
-    TODO: add grade average
+    B.S. Computer Science (Major) and Mathematics (Minor)  
+    Provisional grade (as of November 12th, 2019): 1.5 (62 ECTS)
 
 *
     `2018`  
     **Ev. Gymnasium Hermannswerder**  
     Abitur  
-    Final exams in Mathematics, Computer Science, English, German, and History  
     Honors: Degree finished with the highest possible GPA (1.0)
 
 ### Honors
@@ -82,4 +81,4 @@ that are either consumer-focused or support others in being more productive.
     A simple language implemented in Python to quickly generate truth tables of
     propositional logic formulae from the command line.
 
-A more complete and in-depth timeline of my work can be found [here](projects.md).
+A more complete and in-depth timeline of my work can be found [here](work.md).
