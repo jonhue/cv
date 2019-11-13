@@ -5,7 +5,7 @@
   "scripts": {
     "build": "webpack",
     "start": "nodemon --watch src --exec 'yarn build' -e js,scss",
-    "deploy": "gh-pages -b gh-pages",
+    "deploy": "gh-pages -d . -b gh-pages",
     "stylelint": "stylelint src/**/*.scss"
   },
   "devDependencies": {
