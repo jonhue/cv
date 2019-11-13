@@ -1,6 +1,11 @@
+---
+layout: cv
+title: Work - Jonas Hübotter
+---
+
 # Work
 
-This document gives a non-exhaustive organized overview of my work. It should be more in-depth than the [CV](README.md) and more organized (and complete) than my [GitHub profile](https://github.com/jonhue).
+This document gives a non-exhaustive organized overview of my work. It should be more in-depth than the [CV](README) and more organized (and complete) than my [GitHub profile](https://github.com/jonhue).
 
 *
     `since 09/2019`  

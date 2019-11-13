@@ -1,10 +1,17 @@
+---
+layout: cv
+title: Jonas Hübotter
+---
+
 # Jonas Hübotter
 
-jonas.huebotter@gmail.com | https://jonhue.github.io
+[jonas.huebotter@gmail.com](mailto:jonas.huebotter@gmail.com) | [https://jonhue.github.io](https://jonhue.github.io)
 
 A student, passionate developer, and open-source fanatic. I thrive where
-abstract theoretical concepts cross concrete applications in building products
-that are either consumer-focused or support others in being more productive.
+abstract theoretical concepts meet concrete applications in building products
+that are either consumer-focused or support others in achieving more.
+
+---
 
 ### Education
 
@@ -20,6 +27,8 @@ that are either consumer-focused or support others in being more productive.
     Abitur  
     Honors: Degree finished with the highest possible GPA (1.0)
 
+---
+
 ### Honors
 
 *
@@ -27,6 +36,8 @@ that are either consumer-focused or support others in being more productive.
     Scholar of the **Studienstiftung des deutschen Volkes**  
     Received for excellent academic achievements as well as engagement in the
     open-source community.
+
+---
 
 ### Professional experience
 
@@ -51,16 +62,18 @@ that are either consumer-focused or support others in being more productive.
     Implementing a bot to support internal workflows. Building a CSV converter
     for a SaaS customer as a standalone project.
 
+---
+
 ### Recent work
 
 *
     `since 2016`  
     **Open-source libraries**  
     Work on a multitude of JavaScript and Ruby packages that cumulatively have
-    been downloaded for more than 200k times. Including:
-    * [acts_as_favoritor](https://github.com/jonhue/acts_as_favoritor)
-    * [notifications-rails](https://github.com/jonhue/notifications-rails)
-    * [turbolinks-animate](https://github.com/jonhue/turbolinks-animate)
+    been downloaded for more than 200k times. Including
+    [acts_as_favoritor](https://github.com/jonhue/acts_as_favoritor),
+    [notifications-rails](https://github.com/jonhue/notifications-rails), and
+    [turbolinks-animate](https://github.com/jonhue/turbolinks-animate).
 
 *
     `2019`  
@@ -81,4 +94,4 @@ that are either consumer-focused or support others in being more productive.
     A simple language implemented in Python to quickly generate truth tables of
     propositional logic formulae from the command line.
 
-A more complete and in-depth timeline of my work can be found [here](work.md).
+A more complete and in-depth timeline of my work can be found [here](work).

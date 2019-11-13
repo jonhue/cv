@@ -1,0 +1,26 @@
+{
+  "name": "cv",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "webpack",
+    "start": "nodemon --watch src --exec 'yarn build' -e js,scss",
+    "deploy": "gh-pages -b gh-pages",
+    "stylelint": "stylelint src/**/*.scss"
+  },
+  "devDependencies": {
+    "css-loader": "^3.2.0",
+    "file-loader": "^4.2.0",
+    "gh-pages": "^2.1.1",
+    "node-sass": "^4.13.0",
+    "nodemon": "^1.19.4",
+    "sass-loader": "^8.0.0",
+    "style-loader": "^1.0.0",
+    "stylelint": "^11.1.1",
+    "stylelint-config-standard": "^19.0.0",
+    "stylelint-order": "^3.1.1",
+    "stylelint-scss": "^3.12.1",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
