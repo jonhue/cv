@@ -2,8 +2,7 @@
 
 This repository contains the source code for my CV.
 
-[**Web**](https://jonhue.github.io/cv/cv),
-[**PDF**](https://jonhue.github.io/cv/cv.pdf)
+**https://jonhue.github.io/cv/cv**
 
 ### Development
 
