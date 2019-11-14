@@ -74,4 +74,4 @@ movies & tv shows.
 A simple language implemented in Python to quickly generate truth tables of
 propositional logic formulae from the command line.
 
-A more complete and in-depth timeline of my work can be found [here](https://jonhue.github.io/cv/work).
+A more complete and in-depth timeline of my work can be found [here](work).
