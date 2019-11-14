@@ -1,12 +1,15 @@
 @import "./fonts/lmroman";
 @import "./fonts/lmmonoprop";
 
-$table-padding: 10px;
-$date-width: 175px;
+$spacing: 1.25rem;
+$table-padding: #{$spacing / 2};
+$max-content-width: 750px;
+$date-width: 5rem;
 
 body {
   font-family: 'lmroman', serif;
-  padding: 20px;
+  font-size: 16px;
+  padding: $spacing;
 }
 
 code {
@@ -22,7 +25,9 @@ table {
 table td,
 table th {
   border: 1px solid black;
+  max-width: calc(100vw - #{$spacing * 2});
   padding: 0 $table-padding;
+  word-break: break-word;
 }
 
 h3 {
@@ -31,7 +36,7 @@ h3 {
 }
 
 hr {
-  margin: 20px 0;
+  margin: $spacing 0;
 
   & + h3 {
     margin-top: 0;
@@ -40,7 +45,7 @@ hr {
 
 .Content {
   margin: 0 auto;
-  max-width: 750px;
+  max-width: $max-content-width;
   position: relative;
 
   h1 {
@@ -56,5 +61,15 @@ hr {
 
   p {
     padding-right: $date-width;
+  }
+
+  @media only screen and (min-width: 750px) {
+    code {
+      width: #{$date-width * 2};
+    }
+
+    p {
+      padding-right: #{$date-width * 2};
+    }
   }
 }
