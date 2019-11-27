@@ -9,8 +9,8 @@ This document gives an non-exhaustive overview of my work. It should be more in-
 
 ---
 
-`11/2019` [**Codeowners**](https://github.com/antonbaumann/codeowners) - TypeScript  
-A powerful command line tool to get an accureate representation of code ownership of classes, functions, interfaces and other declarations. Initially built at hackaTUM 2019.
+`11/2019` [**Who Wrote That**](https://github.com/who-wrote-that/cli) - TypeScript  
+A powerful command line tool to get an accurate representation of code ownership of classes, methods, interfaces and more. Initially built at hackaTUM 2019.
 
 `since 09/2019` **Deployer** at Liefery - Ruby  
 Implementing an infrastructure- and workflow-specific solution for
