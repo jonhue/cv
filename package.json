@@ -9,7 +9,7 @@
     "stylelint": "stylelint src/**/*.scss"
   },
   "devDependencies": {
-    "css-loader": "^3.2.1",
+    "css-loader": "^3.3.0",
     "file-loader": "^4.3.0",
     "gh-pages": "^2.1.1",
     "node-sass": "^4.13.0",
