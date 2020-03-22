@@ -21,8 +21,8 @@ jobs:
       run: yarn build
     - name: Rename cv.md to index.md
       run: mv cv.md index.md
-    - name: Add dist directory to Git
-      run: echo "!dist" >> ".gitignore"
+    - name: Move files from dist directory into root
+      run: mv dist/* .
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
