@@ -19,17 +19,14 @@ jobs:
       run: yarn install
     - name: Build
       run: yarn build
-    - name: Move files to /dist directory
-      run: |
-        cp cv.md dist/index.md
-        cp work.md dist/work.md
-        cp -r _layouts dist/_layouts
+    - name: Rename cv.md to index.md
+      run: mv cv.md index.md
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
         deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         publish_branch: gh-pages
-        publish_dir: ./dist
+        publish_dir: ./
         allow_empty_commit: true
         force_orphan: true
         enable_jekyll: true
