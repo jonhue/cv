@@ -5,7 +5,7 @@ title: Work - Jonas Hübotter
 
 # Work
 
-This document gives an non-exhaustive overview of my work. It should be more in-depth than the [CV](cv) and more organized (and complete) than my [GitHub profile](https://github.com/jonhue).
+This document gives an non-exhaustive overview of my work. It should be more in-depth than the [CV](https://jonhue.github.io/cv) and more organized (and complete) than my [GitHub profile](https://github.com/jonhue).
 
 ---
 

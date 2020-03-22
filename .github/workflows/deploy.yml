@@ -24,6 +24,7 @@ jobs:
         cp cv.md dist/index.md
         cp work.md dist/work.md
         cp -r _layouts dist/_layouts
+        rm dist/.nojekyll
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
