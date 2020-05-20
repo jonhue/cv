@@ -16,14 +16,14 @@ that are either consumer-focused or support others in achieving more.
 ### Education
 
 `est. 2021` **Technical University Munich**
-B.S. Computer Science (Major) and Mathematics (Minor)
+B.Sc. Computer Science (Major) and Mathematics (Minor)
 <br/>
 Provisional grade (as of April 16th, 2020): 1.5 (93 ECTS)
 
 `2018` **Ev. Gymnasium Hermannswerder**
 Abitur
 <br/>
-Honors: Degree finished with the highest possible GPA (1.0)
+Grade: 1.0 (best achievable)
 
 ---
 
@@ -38,7 +38,13 @@ open-source community.
 
 ### Professional experience
 
-`since 07/2019` **Software Engineer** at Liefery
+`since 04/2020` **Data Engineer** at Uncountable
+<br/>
+Working with R&D teams to accelerate the development of new products. Building
+models to identify promising compositions of ingredients and optimize for
+properties desired in the final product.
+
+`07/2019 - 03/2020` **Software Engineer** at Liefery
 <br/>
 Member of the infrastructure team. Implementing an automated continuous
 delivery workflow to enhance the quality and quantity of production
