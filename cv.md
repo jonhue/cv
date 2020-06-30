@@ -36,6 +36,15 @@ open-source community.
 
 ---
 
+### Teaching
+
+`06/2020 - 07/2020` [Revision Course for **Functional Programming and Verification**](https://jonhue.github.io/teaching-fpv-rev/)
+<br/>
+Giving the revision course of Functional Programming and Verification for the
+winter term 2020.
+
+---
+
 ### Professional experience
 
 `since 04/2020` **Data Engineer** at Uncountable
