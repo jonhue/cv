@@ -7,9 +7,8 @@ title: Jonas Hübotter
 
 [jonas.huebotter@gmail.com](mailto:jonas.huebotter@gmail.com) | [https://jonhue.github.io](https://jonhue.github.io)
 
-A student, passionate developer, and open-source fanatic. I thrive where
-abstract theoretical concepts meet concrete applications in building products
-that are either consumer-focused or support others in achieving more.
+A student and passionate developer who loves open-source. I thrive where
+abstract theoretical concepts meet concrete applications.
 
 ---
 
@@ -31,7 +30,7 @@ Grade: 1.0 (best achievable)
 
 `since 2019` Scholar of the **Studienstiftung des deutschen Volkes**
 <br/>
-Received for excellent academic achievements as well as engagement in the
+Received for excellent academic achievements and engagement in the
 open-source community.
 
 ---
@@ -51,7 +50,8 @@ winter term 2020.
 <br/>
 Working with R&D teams to accelerate the development of new products. Building
 models to identify promising compositions of ingredients and optimize for
-properties desired in the final product.
+properties desired in the final product. Developing methods for outlier
+detection in a wide variety of customer data.
 
 `07/2019 - 03/2020` **Software Engineer** at Liefery
 <br/>
@@ -78,7 +78,7 @@ for a SaaS customer as a standalone project.
 `since 2016` **Open-source libraries**
 <br/>
 Work on a multitude of JavaScript and Ruby packages that cumulatively have
-been downloaded for more than 300k times. Including
+been downloaded for more than 350k times. Including
 [acts_as_favoritor](https://github.com/jonhue/acts_as_favoritor),
 [notifications-rails](https://github.com/jonhue/notifications-rails), and
 [turbolinks-animate](https://github.com/jonhue/turbolinks-animate).
