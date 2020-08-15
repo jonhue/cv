@@ -9,14 +9,23 @@ This document gives an non-exhaustive overview of my work. It should be more in-
 
 ---
 
-`11/2019` [**Who Wrote That**](https://github.com/who-wrote-that/cli) - TypeScript
+`06/2020 - 07/2020` [**Sorting by Reversals**](https://github.com/jonhue/min-sbr)
 <br/>
-A powerful command line tool to get an accurate representation of code ownership of classes, methods, interfaces and more. Initially built at hackaTUM 2019.
+Researching approximation algorithms for the problem of Sorting by Reversals.
 
-`since 09/2019` **Deployer** at Liefery - Ruby
+`06/2020 - 07/2020` [Revision Course for **Functional Programming and Verification**](https://jonhue.github.io/teaching-fpv-rev/)
+<br/>
+Giving the revision course of Functional Programming and Verification for the
+winter term 2020.
+
+`09/2019 - 03/2020` **Deployer** at Liefery - Ruby
 <br/>
 Implementing an infrastructure- and workflow-specific solution for
 continuous delivery at Liefery.
+
+`11/2019` [**Who Wrote That**](https://github.com/who-wrote-that/cli) - TypeScript
+<br/>
+A powerful command line tool to get an accurate representation of code ownership of classes, methods, interfaces and more. Initially built at hackaTUM 2019.
 
 `06/2019 - 08/2019` **RC5** - x86-Assembly/C
 <br/>
