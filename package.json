@@ -8,6 +8,9 @@
     "deploy": "gh-pages -d . -b gh-pages",
     "stylelint": "stylelint src/**/*.scss"
   },
+  "engines": {
+    "node": "14.9.0"
+  },
   "devDependencies": {
     "css-loader": "^4.3.0",
     "file-loader": "^6.1.0",
