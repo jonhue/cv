@@ -37,9 +37,14 @@ open-source community.
 
 ### Teaching
 
+`09/2020 - 10/2020` Revision Course for **Discrete Probability Theory**
+<br/>
+Teaching the revision course of Discrete Probability Theory for the
+summer term 2020.
+
 `06/2020 - 07/2020` [Revision Course for **Functional Programming and Verification**](https://jonhue.github.io/teaching-fpv-rev/)
 <br/>
-Giving the revision course of Functional Programming and Verification for the
+Teaching the revision course of Functional Programming and Verification for the
 winter term 2020.
 
 ---
@@ -49,9 +54,10 @@ winter term 2020.
 `since 04/2020` **Data Engineer** at Uncountable
 <br/>
 Working with R&D teams to accelerate the development of new products. Building
-models to identify promising compositions of ingredients and optimize for
-properties desired in the final product. Developing methods for outlier
-detection in a wide variety of customer data.
+ML features for the Uncountable platform such as methods for outlier detection
+in a wide variety of customer data. Building models to identify promising
+compositions of ingredients and optimize for properties desired in the final
+product.
 
 `07/2019 - 03/2020` **Software Engineer** at Liefery
 <br/>
