@@ -17,7 +17,7 @@ abstract theoretical concepts meet concrete applications.
 `est. 2021` **Technical University Munich**
 B.Sc. Computer Science (Major) and Mathematics (Minor)
 <br/>
-Provisional grade (as of April 16th, 2020): 1.5 (93 ECTS)
+Provisional grade (as of October 24th, 2020): 1.7 (135 ECTS)
 
 `2018` **Ev. Gymnasium Hermannswerder**
 Abitur
@@ -37,7 +37,7 @@ open-source community.
 
 ### Teaching
 
-`09/2020 - 10/2020` Revision Course for **Discrete Probability Theory**
+`09/2020 - 10/2020` [Revision Course for **Discrete Probability Theory**](https://jonhue.github.io/teaching-dwt-rev/)
 <br/>
 Teaching the revision course of Discrete Probability Theory for the
 summer term 2020.
