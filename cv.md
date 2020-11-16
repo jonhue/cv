@@ -37,6 +37,10 @@ open-source community.
 
 ### Teaching
 
+`since 11/2020` Tutor for **Functional Programming and Verification**
+<br/>
+Tutoring for Functional Programming and Verification in the winter term 2021.
+
 `09/2020 - 10/2020` [Revision Course for **Discrete Probability Theory**](https://jonhue.github.io/teaching-dwt-rev/)
 <br/>
 Teaching the revision course of Discrete Probability Theory for the
@@ -58,6 +62,14 @@ ML features for the Uncountable platform such as methods for outlier detection
 in a wide variety of customer data. Building models to identify promising
 compositions of ingredients and optimize for properties desired in the final
 product.
+
+`05/2020 - 12/2020` **Garbage Separation App** for City of Puchheim
+<br/>
+Building an app focusing on interactive games designed to familiarize garbage
+separation with kids. Users are able to compete for prizes individually and in
+teams of buildings and neighborhoods. The app also bundles local information on
+waste separation as well as generel information such as effects on the
+environment.
 
 `07/2019 - 03/2020` **Software Engineer** at Liefery
 <br/>
