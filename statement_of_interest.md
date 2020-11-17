@@ -32,3 +32,11 @@ Since many years I've been working in the open-source community.
 Therefore one of my main concerns is the spreading of the open-source philosophy
 and its fundamental concepts like transparency, inclusiveness, and open
 collaboration into other areas.
+
+I greatly enjoy teaching and collective discovery with students. During my
+undergraduate degree I held a revision course on Functional Programming and
+Verification as well as Discrete Probability Theory. Additionally, I tutored in
+Functional Programming and Verification. Thinking about hard problems together
+and collectively coming up with a solution is incredibly rewarding to me. On top
+of that, designing a course structure and exercises led me to see these topics
+from entirely different angles.
