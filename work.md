@@ -9,6 +9,25 @@ This document gives an non-exhaustive overview of my work. It should be more in-
 
 ---
 
+`09/2020 - 12/2020` **Outlier detection** at Uncountable - Python/PyTorch
+<br/>
+Designing and building an algorithm to automatically detect outliers in a wide
+variety of customer data from different areas. Outliers were detected based on
+general methods and methods specific to certain datasets.
+Additionally, an algorithm was built to detect multimodal distributions in a
+dataset.
+A clear and intuitive UI was designed to present the results of the algorithm in
+the different stages of working with the data - from entering it into the system
+to building models on it.
+
+`06/2020 - 12/2020` **Garbage Separation App** for City of Puchheim - TypeScript/React
+<br/>
+Building an app focusing on interactive games designed to familiarize kids with
+garbage separation. Users are able to compete for prizes individually and in
+teams of buildings and neighborhoods. The app also bundles local information on
+waste separation as well as generel information such as effects on the
+environment.
+
 `06/2020 - 07/2020` [**Sorting by Reversals**](https://github.com/jonhue/min-sbr)
 <br/>
 Researching approximation algorithms for the problem of Sorting by Reversals.
@@ -33,7 +52,7 @@ An Assembly implementation of the RC5 block cipher for the x86 instruction
 set. Implementation of three different modes of operation and using Intel's
 SSE extensions to the x86 ISA for a SIMD implementation.
 
-`03/2019 - 10/2019` [**Plaain**](https://jonhue.github.io/plaain) - JavaScript
+`03/2019 - 10/2019` [**Plaain**](https://jonhue.github.io/plaain) - TypeScript/React
 <br/>
 A serverless React-Redux progressive web app to organize your library of
 movies & tv shows.

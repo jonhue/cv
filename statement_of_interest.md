@@ -1,0 +1,34 @@
+---
+layout: cv
+title: Statement of Interest - Jonas Hübotter
+---
+
+# Statement of Interest
+
+I am an undergraduate student in computer science at the Technical University of
+Munich. My interests are formal verification, the design and analysis of
+algorithms, and the semantics of programming languages.
+Additionally, I am particularly interested in the spreading of core open-source
+concepts to more areas.
+
+---
+
+## Research interests
+
+When we built a website in my first computer science lesson in high school I
+immediately knew I was deeply fascinated by computers. The possibilities seemed
+endless. Now, doing my undergraduate degree in computer science, my fascination
+is bigger than ever before but my perspective has changed significantly.
+There are still so many problems that computers cannot easily solve - or solve
+at all. The formal verification of systems is one of the culprits. To that end,
+I'm interested in the formalization of algorithms to prove their correctness as
+well as the verification of certain properties of programs using extended type
+systems. Furthermore, my interests include designing algorithms (precise and
+approximative) for challenging problems and analyzing their propoerties.
+
+## Other interests
+
+Since many years I've been working in the open-source community.
+Therefore one of my main concerns is the spreading of the open-source philosophy
+and its fundamental concepts like transparency, inclusiveness, and open
+collaboration into other areas.

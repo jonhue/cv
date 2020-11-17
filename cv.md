@@ -7,8 +7,13 @@ title: Jonas Hübotter
 
 [jonas.huebotter@gmail.com](mailto:jonas.huebotter@gmail.com) | [https://jonhue.github.io](https://jonhue.github.io)
 
-A student and passionate developer who loves open-source. I thrive where
-abstract theoretical concepts meet concrete applications.
+I am an undergraduate student in computer science at the Technical University of
+Munich. My interests are the formal verification, the design and analysis of
+algorithm, and the semantics of programming languages.
+Additionally, I am particularly interested in the spreading of open-source to
+more areas of application.
+
+[Statement of Interest](statement_of_interest)
 
 ---
 
@@ -57,13 +62,13 @@ winter term 2020.
 
 `since 04/2020` **Data Engineer** at Uncountable
 <br/>
-Working with R&D teams to accelerate the development of new products. Building
-ML features for the Uncountable platform such as methods for outlier detection
-in a wide variety of customer data. Building models to identify promising
-compositions of ingredients and optimize for properties desired in the final
-product.
+Working with R&D teams to accelerate the development of new products. Designing
+and building an algorithm to automatically detect outliers and bimodal
+distributions in a wide variety of customer data. Building models to identify
+promising compositions of ingredients and optimize for properties desired in the
+final product.
 
-`05/2020 - 12/2020` **Garbage Separation App** for City of Puchheim
+`06/2020 - 12/2020` **Garbage Separation App** for City of Puchheim
 <br/>
 Building an app focusing on interactive games designed to familiarize kids with
 garbage separation. Users are able to compete for prizes individually and in
