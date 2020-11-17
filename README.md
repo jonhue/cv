@@ -6,23 +6,16 @@ This repository contains the source code for my CV.
 
 ### Development
 
-This project uses [asdf](https://github.com/asdf-vm/asdf) as version manager and [Yarn](https://github.com/yarnpkg/yarn) as JavaScript package manager.
+This project requires [Ruby](https://www.ruby-lang.org/en/) and [Yarn](https://github.com/yarnpkg/yarn).
 
-Dependencies are listed in the [.tool-versions](.tool-versions) file.
-
-1. Clone this repository
-
-    `$ git clone ssh://git@github.com/jonhue/jonhue.github.io.git`
-
-2. Install dependencies
+1. Install dependencies
 
     ```
-    $ asdf install
     $ gem install jekyll
     $ yarn install
     ```
 
-5. Start development server
+2. Start development server
 
     ```
     $ jekyll serve
