@@ -73,7 +73,7 @@ final product.
 Building an app focusing on interactive games designed to familiarize kids with
 garbage separation. Users are able to compete for prizes individually and in
 teams of buildings and neighborhoods. The app also bundles local information on
-waste separation as well as generel information such as effects on the
+waste separation as well as general information such as effects on the
 environment.
 
 `07/2019 - 03/2020` **Software Engineer** at Liefery
