@@ -101,24 +101,20 @@ for a SaaS customer as a standalone project.
 `since 2016` **Open-source libraries**
 <br/>
 Work on a multitude of JavaScript and Ruby packages that cumulatively have
-been downloaded for more than 350k times. Including
+been downloaded for more than 450k times. Including
 [acts_as_favoritor](https://github.com/jonhue/acts_as_favoritor),
 [notifications-rails](https://github.com/jonhue/notifications-rails), and
 [turbolinks-animate](https://github.com/jonhue/turbolinks-animate).
 
 `2020` [**Tony**](https://github.com/tony-lang/tony)
 <br/>
-A strongly typed, high-level, general purpose programming language with a
-focus on concurrency. Implementing Refinement Types and Pattern Matching.
+Tony is a functional, strongly typed, high level, general purpose programming
+language. Tony employs refinement types, allowing its type checker to catch
+domain-specific bugs at compile time.
 
 `2019` [**Plaain**](https://jonhue.github.io/plaain)
 <br/>
 A serverless React-Redux progressive web app to organize your library of
 movies & tv shows.
-
-`2019` [**Propose**](https://github.com/jonhue/propose)
-<br/>
-A simple language implemented in Python to quickly generate truth tables of
-propositional logic formulae from the command line.
 
 A more complete and in-depth timeline of my work can be found [here](work).
