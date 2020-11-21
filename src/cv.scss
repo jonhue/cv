@@ -72,4 +72,8 @@ hr {
       padding-right: #{$date-width * 2};
     }
   }
+
+  table + p {
+    padding-right: 0 !important;
+  }
 }
