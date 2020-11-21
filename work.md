@@ -25,7 +25,7 @@ to building models on it.
 Building an app focusing on interactive games designed to familiarize kids with
 garbage separation. Users are able to compete for prizes individually and in
 teams of buildings and neighborhoods. The app also bundles local information on
-waste separation as well as generel information such as effects on the
+waste separation as well as general information such as effects on the
 environment.
 
 `06/2020 - 07/2020` [**Sorting by Reversals**](https://github.com/jonhue/min-sbr)
