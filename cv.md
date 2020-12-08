@@ -8,8 +8,8 @@ title: Jonas Hübotter
 [jonas.huebotter@gmail.com](mailto:jonas.huebotter@gmail.com) | [https://jonhue.github.io](https://jonhue.github.io)
 
 I am an undergraduate student in computer science at the Technical University of
-Munich. My main research interests are formal verification, the design and analysis of
-algorithms, the semantics of programming languages, and type systems.
+Munich. My main research interests are the design and analysis of algorithms,
+the semantics of programming languages, type systems and formal verification.
 I am also particularly interested in the spreading of core open-source
 concepts to more areas.
 
