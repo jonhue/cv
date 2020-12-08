@@ -8,12 +8,10 @@ title: Jonas Hübotter
 [jonas.huebotter@gmail.com](mailto:jonas.huebotter@gmail.com) | [https://jonhue.github.io](https://jonhue.github.io)
 
 I am an undergraduate student in computer science at the Technical University of
-Munich. My interests are formal verification, the design and analysis of
-algorithms, and the semantics of programming languages.
-Additionally, I am particularly interested in the spreading of core open-source
+Munich. My main research interests are formal verification, the design and analysis of
+algorithms, the semantics of programming languages, and type systems.
+I am also particularly interested in the spreading of core open-source
 concepts to more areas.
-
-[Statement of Interest](statement_of_interest)
 
 ---
 
@@ -35,8 +33,7 @@ Grade: 1.0 (best achievable)
 
 `since 2019` Scholar of the **Studienstiftung des deutschen Volkes**
 <br/>
-Received for excellent academic achievements and engagement in the
-open-source community.
+Received for excellent academic achievements.
 
 ---
 
@@ -44,17 +41,17 @@ open-source community.
 
 `since 11/2020` Tutor for **Functional Programming and Verification**
 <br/>
-Tutoring for Functional Programming and Verification in the winter term 2021.
+Tutoring for Functional Programming and Verification in the winter term 2021 (undergraduate).
 
 `09/2020 - 10/2020` [Revision Course for **Discrete Probability Theory**](https://jonhue.github.io/teaching-dwt-rev/)
 <br/>
 Teaching the revision course of Discrete Probability Theory for the
-summer term 2020.
+summer term 2020 (undergraduate).
 
 `06/2020 - 07/2020` [Revision Course for **Functional Programming and Verification**](https://jonhue.github.io/teaching-fpv-rev/)
 <br/>
 Teaching the revision course of Functional Programming and Verification for the
-winter term 2020.
+winter term 2020 (undergraduate).
 
 ---
 
@@ -63,36 +60,22 @@ winter term 2020.
 `since 04/2020` **Data Engineer** at Uncountable
 <br/>
 Working with R&D teams to accelerate the development of new products. Designing
-and building an algorithm to automatically detect outliers and bimodal
-distributions in a wide variety of customer data. Building models to identify
-promising compositions of ingredients and optimize for properties desired in the
-final product.
+and building algorithms to automatically detect outliers and bimodal
+distributions in datasets from various domains.
 
 `06/2020 - 12/2020` **Garbage Separation App** for City of Puchheim
 <br/>
 Building an app focusing on interactive games designed to familiarize kids with
 garbage separation. Users are able to compete for prizes individually and in
-teams of buildings and neighborhoods. The app also bundles local information on
-waste separation as well as general information such as effects on the
-environment.
+teams of buildings and neighborhoods. The app also provides local information on
+waste separation as well as general information on its environmental impact.
 
-`07/2019 - 03/2020` **Software Engineer** at Liefery
+`05/2018 - 03/2020` **Software Engineer** at Liefery
 <br/>
 Member of the infrastructure team. Implementing an automated continuous
-delivery workflow to enhance the quality and quantity of production
-deployments in an agile setting. Focus on workflow automation and
-minimization of downtime.
-
-`10/2018 - 06/2019` **Junior Software Engineer** at Liefery
-<br/>
-Work on route planning and the backend system used for Operations and
-Finance departments.
-
-`05/2018 - 08/2018` **Software Engineering Intern** at Liefery
-<br/>
-Work on a Ruby on Rails backend system used in the same-day delivery sector.
-Implementing a bot to support internal workflows. Building a CSV converter
-for a SaaS customer as a standalone project.
+delivery workflow increasing the quality and quantity of production
+deployments while minimizing downtime. I also worked on route planning algorithms
+supporting the timely delivery of hundreds of thousands of shipments a month.
 
 ---
 
@@ -101,7 +84,7 @@ for a SaaS customer as a standalone project.
 `since 2016` **Open-source libraries**
 <br/>
 Work on a multitude of JavaScript and Ruby packages that cumulatively have
-been downloaded for more than 450k times. Including
+been downloaded for more than 450k times. These include
 [acts_as_favoritor](https://github.com/jonhue/acts_as_favoritor),
 [notifications-rails](https://github.com/jonhue/notifications-rails), and
 [turbolinks-animate](https://github.com/jonhue/turbolinks-animate).
@@ -114,7 +97,7 @@ domain-specific bugs at compile time.
 
 `2019` [**Plaain**](https://jonhue.github.io/plaain)
 <br/>
-A serverless React-Redux progressive web app to organize your library of
-movies & tv shows.
+A serverless React-Redux progressive web app to organize movies & tv shows and
+stream them from anywhere.
 
 A more complete and in-depth timeline of my work can be found [here](work).
