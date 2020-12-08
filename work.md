@@ -11,22 +11,21 @@ This document gives an non-exhaustive overview of my work. It should be more in-
 
 `09/2020 - 12/2020` **Outlier detection** at Uncountable - Python/PyTorch
 <br/>
-Designing and building an algorithm to automatically detect outliers in a wide
-variety of customer data from different areas. Outliers were detected based on
-general methods and methods specific to certain datasets.
-Additionally, an algorithm was built to detect multimodal distributions in a
-dataset.
-A clear and intuitive UI was designed to present the results of the algorithm in
-the different stages of working with the data - from entering it into the system
-to building models on it.
+Working with R&D teams to accelerate the development of new products.
+Designing and building algorithms to automatically detect outliers and bimodal 
+distributions in datasets from various domains.
 
 `06/2020 - 12/2020` **Garbage Separation App** for City of Puchheim - TypeScript/React
 <br/>
 Building an app focusing on interactive games designed to familiarize kids with
 garbage separation. Users are able to compete for prizes individually and in
-teams of buildings and neighborhoods. The app also bundles local information on
-waste separation as well as general information such as effects on the
-environment.
+teams of buildings and neighborhoods. The app also provides local information on
+waste separation as well as general information on its environmental impact.
+
+`09/2020 - 10/2020` [Revision Course for **Discrete Probability Theory**](https://jonhue.github.io/teaching-dwt-rev/)
+<br/>
+Teaching the revision course of Discrete Probability Theory for the
+summer term 2020 (undergraduate).
 
 `06/2020 - 07/2020` [**Sorting by Reversals**](https://github.com/jonhue/min-sbr)
 <br/>
@@ -34,8 +33,8 @@ Researching approximation algorithms for the problem of Sorting by Reversals.
 
 `06/2020 - 07/2020` [Revision Course for **Functional Programming and Verification**](https://jonhue.github.io/teaching-fpv-rev/)
 <br/>
-Giving the revision course of Functional Programming and Verification for the
-winter term 2020.
+Teaching the revision course of Functional Programming and Verification for the
+winter term 2020 (undergraduate).
 
 `09/2019 - 03/2020` **Deployer** at Liefery - Ruby
 <br/>
@@ -69,8 +68,9 @@ photos.
 
 `since 01/2019` [**Tony**](https://github.com/tony-lang/tony) - TypeScript
 <br/>
-A strongly typed, high-level, general purpose programming language with a
-focus on concurrency.
+A functional, strongly typed, high level, general purpose programming
+language. Tony employs refinement types, allowing its type checker to catch
+domain-specific bugs at compile time.
 
 `01/2019` [**B+ Tree**](https://github.com/jonhue/b-plus-tree) - Python
 <br/>
