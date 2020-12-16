@@ -41,7 +41,7 @@ Received for excellent academic achievements.
 
 `since 11/2020` Tutor for **Functional Programming and Verification**
 <br/>
-Tutoring for Functional Programming and Verification in the winter term 2021 (undergraduate).
+Tutoring for Functional Programming and Verification in the winter term 2021 (undergraduate). Work on a homework assignment to implement an AI for UNO.
 
 `09/2020 - 10/2020` [Revision Course for **Discrete Probability Theory**](https://jonhue.github.io/teaching-dwt-rev/)
 <br/>
