@@ -63,7 +63,7 @@ Working with R&D teams to accelerate the development of new products. Designing
 and building algorithms to automatically detect outliers and bimodal
 distributions in datasets from various domains.
 
-`06/2020 - 12/2020` **Garbage Separation App** for City of Puchheim
+`06/2020 - 12/2020` [**Garbage Separation App**](https://www.unsereplanie.de/) for City of Puchheim
 <br/>
 Building an app focusing on interactive games designed to familiarize kids with
 garbage separation. Users are able to compete for prizes individually and in
