@@ -45,7 +45,7 @@ continuous delivery at Liefery.
 <br/>
 A powerful command line tool to get an accurate representation of code ownership of classes, methods, interfaces and more. Initially built at hackaTUM 2019.
 
-`06/2019 - 08/2019` **RC5** - x86-Assembly/C
+`06/2019 - 08/2019` [**RC5**](https://github.com/jonhue/rc5) - x86-Assembly/C
 <br/>
 An Assembly implementation of the RC5 block cipher for the x86 instruction
 set. Implementation of three different modes of operation and using Intel's
