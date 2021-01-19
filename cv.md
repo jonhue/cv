@@ -81,9 +81,9 @@ supporting the timely delivery of hundreds of thousands of shipments a month.
 
 ### Papers
 
-`2020` Jonas Hübotter. *Sorting by Reversals*. https://raw.githubusercontent.com/jonhue/min-sbr/master/paper.pdf. Munich.
+`2020` Jonas Hübotter. *Sorting by Reversals*. [PDF](https://raw.githubusercontent.com/jonhue/min-sbr/master/paper.pdf). Munich.
 
-`2019` Mete Polat and Jonas Hübotter and Simon Martin Bohnen. *Effiziente RC5-Verschlüsselung* (in German). https://raw.githubusercontent.com/jonhue/rc5/master/Ausarbeitung/Ausarbeitung.pdf. Munich.
+`2019` Mete Polat and Jonas Hübotter and Simon Martin Bohnen. *Effiziente RC5-Verschlüsselung* (in German). [PDF](https://raw.githubusercontent.com/jonhue/rc5/master/Ausarbeitung/Ausarbeitung.pdf). Munich.
 
 ---
 
