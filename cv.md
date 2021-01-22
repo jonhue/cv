@@ -10,8 +10,9 @@ title: Jonas Hübotter
 I am an undergraduate student in computer science at the Technical University of
 Munich. My main research interests are the design and analysis of algorithms,
 the semantics of programming languages, type systems and formal verification.
-I am also particularly interested in the spreading of core open-source
-concepts to more areas.
+
+I am also interested in free and open-source software, information theory, and 
+branches of philosophy and psychology like cognitive science. 
 
 ---
 
