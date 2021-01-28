@@ -9,6 +9,10 @@ This document gives an non-exhaustive overview of my work. It should be more in-
 
 ---
 
+`12/2020 - 03/2021` **Type inference** of TypeScript
+<br/>
+As part of a lab course at TUM, I contributed improvements to TypeScript's type inference algorithm. These included stronger type inference, stricter type checks, and more accurate error messages.
+
 `09/2020 - 12/2020` **Outlier detection** at Uncountable - Python/PyTorch
 <br/>
 Working with R&D teams to accelerate the development of new products.
