@@ -106,7 +106,6 @@ domain-specific bugs at compile time.
 
 `2019` [**Plaain**](https://jonhue.github.io/plaain)
 <br/>
-A serverless React-Redux progressive web app to organize movies & tv shows and
-stream them from anywhere.
+A serverless React-Redux progressive web app to organize and stream movies and tv shows from anywhere.
 
 A more complete and in-depth timeline of my work can be found [here](work).
