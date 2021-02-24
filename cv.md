@@ -93,7 +93,7 @@ supporting the timely delivery of hundreds of thousands of shipments a month.
 `since 2016` **Open-source libraries**
 <br/>
 Work on a multitude of JavaScript and Ruby packages that cumulatively have
-been downloaded for more than 450k times. These include
+been downloaded for more than 500k times. These include
 [acts_as_favoritor](https://github.com/jonhue/acts_as_favoritor),
 [notifications-rails](https://github.com/jonhue/notifications-rails), and
 [turbolinks-animate](https://github.com/jonhue/turbolinks-animate).
