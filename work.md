@@ -9,6 +9,10 @@ This document gives an non-exhaustive overview of my work. It should be more in-
 
 ---
 
+`04/2021` [**bifolia.de**](https://bifolia.de/) for bifolia - TypeScript/Gatsby
+<br/>
+Building the website for the landscape architecture firm "bifolia". Focusing on modularity and design.
+
 `12/2020 - 03/2021` **Type inference** of TypeScript
 <br/>
 As part of a lab course at TUM, I contributed improvements to TypeScript's type inference algorithm. These included stronger type inference, stricter type checks, and more accurate error messages.
