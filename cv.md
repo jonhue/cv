@@ -21,7 +21,7 @@ branches of philosophy and psychology like cognitive science.
 `est. 2021` **Technical University Munich**
 B.Sc. Computer Science (Major) and Mathematics (Minor)
 <br/>
-Provisional grade (as of October 24th, 2020): 1.7 (135 ECTS)
+Provisional grade (as of April 6th, 2021): 1.6 (171 ECTS)
 
 `2018` **Ev. Gymnasium Hermannswerder**
 Abitur
