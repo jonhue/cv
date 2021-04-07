@@ -40,6 +40,14 @@ Received for excellent academic achievements.
 
 ### Teaching
 
+`2021` Tutor for **Theoretical Computer Science**
+<br/>
+Tutoring for Theoretical Computer Science in the summer term 2021 (undergraduate).
+
+`2021` Tutor for **Discrete Probability Theory**
+<br/>
+Tutoring for Discrete Probability Theory in the summer term 2021 (undergraduate).
+
 `2020 - 2021` Tutor for **Functional Programming and Verification**
 <br/>
 Tutoring for Functional Programming and Verification in the winter term 2021 (undergraduate). Work on a homework assignment to implement an AI for UNO.
