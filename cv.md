@@ -68,9 +68,10 @@ winter term 2020 (undergraduate).
 
 `since 04/2020` **Data Engineer** at Uncountable
 <br/>
-Working with R&D teams to accelerate the development of new products. Designing
-and building algorithms to automatically detect outliers and bimodal
-distributions in datasets from various domains.
+Working with R&D teams to accelerate the development of new products. Designing 
+and building algorithms to automatically detect outliers and bimodal distributions 
+in datasets from various domains and optimizing the automatic suggestion of 
+formulations to reflect linear constraints like cost.
 
 `06/2020 - 12/2020` [**Garbage Separation App**](https://www.unsereplanie.de/) for City of Puchheim
 <br/>
