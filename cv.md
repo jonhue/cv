@@ -40,7 +40,7 @@ Received for excellent academic achievements.
 
 ### Teaching
 
-`2021` Tutor for **Theoretical Computer Science**
+`2021` [Tutor for **Theoretical Computer Science**](https://jonhue.github.io/teaching-theo/)
 <br/>
 Tutoring for Theoretical Computer Science in the summer term 2021 (undergraduate).
 
