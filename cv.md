@@ -18,6 +18,9 @@ branches of philosophy and psychology like cognitive science.
 
 ### Education
 
+`est. 2023` **ETH Zurich**
+M.Sc. Computer Science
+
 `est. 2021` **Technical University Munich**
 B.Sc. Computer Science (Major) and Mathematics (Minor)
 <br/>
@@ -71,7 +74,7 @@ winter term 2020 (undergraduate).
 Working with R&D teams to accelerate the development of new products. Designing 
 and building algorithms to automatically detect outliers and bimodal distributions 
 in datasets from various domains and optimizing the automatic suggestion of 
-formulations to reflect linear constraints like cost.
+formulations to reflect linear constraints like cost and stoichiometric ratios.
 
 `06/2020 - 12/2020` [**Garbage Separation App**](https://www.unsereplanie.de/) for City of Puchheim
 <br/>
