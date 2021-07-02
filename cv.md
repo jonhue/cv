@@ -69,7 +69,7 @@ winter term 2020 (undergraduate).
 
 ### Professional experience
 
-`since 04/2020` **Data Engineer** at Uncountable
+`04/2020 - 07/2021` **Data Engineer** at Uncountable
 <br/>
 Working with R&D teams to accelerate the development of new products. Designing 
 and building algorithms to automatically detect outliers and bimodal distributions 
