@@ -1,0 +1,8 @@
+_site
+.jekyll-cache
+dist
+node_modules
+
+*.log
+
+.tool-versions
